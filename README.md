@@ -9,6 +9,10 @@ A collective list of free APIs for use in software and web development.
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
+## Como funciona esta pagina?
+
+Esta pagina usa un Jekyll theme llamado [Primer](https://pages-themes.github.io/primer/) y por medio de un [GitHub actions](https://github.com/JuanPabloDiaz/public-api-lists/actions/workflows/pages/pages-build-deployment) se hace el deploy con el theme a [GitHub Pages](https://juanpablodiaz.github.io/public-api-lists/).
+
 ## Index
 
 - [Public API Lists](#public-api-lists)
